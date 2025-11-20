@@ -1,0 +1,106 @@
+
+{
+  "scales": [
+    {
+      "name": "D Kurd",
+      "type": "Minor",
+      "notes": ["D", "A", "Bb", "C", "D", "E", "F", "G", "A", "C"]
+    },
+    {
+      "name": "D Celtic Minor / Amara",
+      "type": "Minor",
+      "notes": ["D", "A", "C", "D", "E", "F", "G", "A", "C"],
+      "baseOctave": 3
+    },
+    {
+      "name": "D Hijaz",
+      "type": "Middle East",
+      "notes": ["D", "A", "C", "D", "Eb", "F#", "G", "A", "C", "Eb"]
+    },
+    {
+      "name": "D Aeolian (Natural Minor)",
+      "type": "Minor",
+      "notes": ["D", "E", "F", "G", "A", "Bb", "C", "D", "E", "F"]
+    },
+    {
+      "name": "D Harmonic Minor (Hijaz Flavor)",
+      "type": "Minor",
+      "notes": ["D", "Eb", "F", "G", "Ab", "B", "C", "D", "Eb", "F"]
+    },
+    {
+      "name": "D La Sirena",
+      "type": "Mystic",
+      "notes": ["D", "F", "G", "A", "Bb", "C", "D", "F", "G", "A"]
+    },
+    {
+      "name": "D Pygmy",
+      "type": "Minor",
+      "notes": ["D", "F", "G", "A", "C", "D", "F", "G", "A", "C"]
+    },
+    {
+      "name": "D Mystic",
+      "type": "Mystic",
+      "notes": ["D", "E", "F", "A", "B", "C", "D", "E", "F", "A"]
+    },
+    {
+      "name": "D Integral",
+      "type": "Minor",
+      "notes": ["D", "G", "A", "Bb", "C", "D", "E", "F", "G", "A"]
+    },
+    {
+      "name": "D Equinox",
+      "type": "Minor",
+      "notes": ["D", "F", "G", "A", "C", "D", "E", "F", "A", "C"]
+    },
+    {
+      "name": "D Akebono",
+      "type": "Exotic",
+      "notes": ["D", "Eb", "G", "A", "Bb", "D", "Eb", "G", "A", "Bb"]
+    },
+    {
+      "name": "D Melog",
+      "type": "Exotic",
+      "notes": ["D", "F", "G", "Ab", "C", "D", "F", "G", "Ab", "C"]
+    },
+    {
+      "name": "D Dorian",
+      "type": "Minor",
+      "notes": ["D", "E", "F", "G", "A", "B", "C", "D", "E", "F"]
+    },
+    {
+      "name": "D Mixolydian",
+      "type": "Major",
+      "notes": ["D", "E", "F#", "G", "A", "B", "C", "D", "E", "F#"]
+    },
+    {
+      "name": "D Ionian (Major)",
+      "type": "Major",
+      "notes": ["D", "E", "F#", "G", "A", "B", "C#", "D", "E", "F#"]
+    },
+    {
+      "name": "D Locrian",
+      "type": "Exotic",
+      "notes": ["D", "Eb", "F", "G", "Ab", "Bb", "C", "D", "Eb", "F"]
+    },
+    {
+      "name": "D Phrygian",
+      "type": "Minor",
+      "notes": ["D", "Eb", "F", "G", "A", "Bb", "C", "D", "Eb", "F"]
+    },
+    {
+      "name": "D Enigma",
+      "type": "Exotic",
+      "notes": ["D", "F", "G#", "A", "B", "C", "D", "F", "G#", "A"]
+    },
+    {
+      "name": "D Zambra",
+      "type": "Middle East",
+      "notes": ["D", "Eb", "F#", "G", "A", "Bb", "C", "D", "Eb", "F#"]
+    },
+    {
+      "name": "D La Luna",
+      "type": "Mystic",
+      "notes": ["D", "G", "A", "Bb", "C", "D", "F", "G", "A", "C"]
+    }
+  ]
+}

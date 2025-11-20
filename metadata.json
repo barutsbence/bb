@@ -1,0 +1,7 @@
+{
+  "name": "Copy of BB Tools",
+  "description": "An AI-powered assistant for music teachers and students, featuring a chord progression generator, a music theory quiz, a creative idea generator, and a metronome to help with practice and composition.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
